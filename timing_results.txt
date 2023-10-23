@@ -1,0 +1,17 @@
+Timing Results
+
+NPM Run times:
+Run 1 time: 103157 ms
+Run 2 time: 14653 ms
+Run 3 time: 13991 ms
+Run 4 time: 14269 ms
+Run 5 time: 14300 ms
+Average NPM execution time over 5 runs: 32074 ms
+
+Bun Run times:
+Run 1 time: 13740 ms
+Run 2 time: 13514 ms
+Run 3 time: 13583 ms
+Run 4 time: 13624 ms
+Run 5 time: 13638 ms
+Average Bun execution time over 5 runs: 13619 ms

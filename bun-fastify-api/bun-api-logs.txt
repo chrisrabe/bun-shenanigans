@@ -1,0 +1,22 @@
+{"level":30,"time":1698060071156,"pid":9299,"hostname":"Airfryer","msg":"Server listening at http://localhost:8080"}
+Server is listening on http://localhost:8080
+{"level":30,"time":1698060075626,"pid":9299,"hostname":"Airfryer","reqId":"req-1","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":53776},"msg":"incoming request"}
+{"level":30,"time":1698060077379,"pid":9299,"hostname":"Airfryer","reqId":"req-1","res":{"statusCode":200},"responseTime":1753.0064979999997,"msg":"request completed"}
+{"level":30,"time":1698060077383,"pid":9299,"hostname":"Airfryer","reqId":"req-2","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":53780},"msg":"incoming request"}
+{"level":30,"time":1698060077921,"pid":9299,"hostname":"Airfryer","reqId":"req-2","res":{"statusCode":200},"responseTime":538.3717099999994,"msg":"request completed"}
+{"level":30,"time":1698060077924,"pid":9299,"hostname":"Airfryer","reqId":"req-3","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36716},"msg":"incoming request"}
+{"level":30,"time":1698060078922,"pid":9299,"hostname":"Airfryer","reqId":"req-3","res":{"statusCode":200},"responseTime":997.9727010000006,"msg":"request completed"}
+{"level":30,"time":1698060078926,"pid":9299,"hostname":"Airfryer","reqId":"req-4","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36718},"msg":"incoming request"}
+{"level":30,"time":1698060079708,"pid":9299,"hostname":"Airfryer","reqId":"req-4","res":{"statusCode":200},"responseTime":781.9362270000001,"msg":"request completed"}
+{"level":30,"time":1698060079712,"pid":9299,"hostname":"Airfryer","reqId":"req-5","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36726},"msg":"incoming request"}
+{"level":30,"time":1698060080261,"pid":9299,"hostname":"Airfryer","reqId":"req-5","res":{"statusCode":200},"responseTime":549.5844639999996,"msg":"request completed"}
+{"level":30,"time":1698060080265,"pid":9299,"hostname":"Airfryer","reqId":"req-6","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36740},"msg":"incoming request"}
+{"level":30,"time":1698060081178,"pid":9299,"hostname":"Airfryer","reqId":"req-6","res":{"statusCode":200},"responseTime":912.9923870000002,"msg":"request completed"}
+{"level":30,"time":1698060081182,"pid":9299,"hostname":"Airfryer","reqId":"req-7","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36756},"msg":"incoming request"}
+{"level":30,"time":1698060081730,"pid":9299,"hostname":"Airfryer","reqId":"req-7","res":{"statusCode":200},"responseTime":547.9317359999986,"msg":"request completed"}
+{"level":30,"time":1698060081734,"pid":9299,"hostname":"Airfryer","reqId":"req-8","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36758},"msg":"incoming request"}
+{"level":30,"time":1698060082265,"pid":9299,"hostname":"Airfryer","reqId":"req-8","res":{"statusCode":200},"responseTime":530.2169959999992,"msg":"request completed"}
+{"level":30,"time":1698060082268,"pid":9299,"hostname":"Airfryer","reqId":"req-9","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36760},"msg":"incoming request"}
+{"level":30,"time":1698060082837,"pid":9299,"hostname":"Airfryer","reqId":"req-9","res":{"statusCode":200},"responseTime":568.388997,"msg":"request completed"}
+{"level":30,"time":1698060082842,"pid":9299,"hostname":"Airfryer","reqId":"req-a","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":36766},"msg":"incoming request"}
+{"level":30,"time":1698060083389,"pid":9299,"hostname":"Airfryer","reqId":"req-a","res":{"statusCode":200},"responseTime":546.8804019999989,"msg":"request completed"}

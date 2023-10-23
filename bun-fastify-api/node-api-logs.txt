@@ -1,0 +1,26 @@
+
+> bun-fastify-api@1.0.0 start
+> ts-node -r tsconfig-paths/register ./src/server.ts
+
+{"level":30,"time":1698059702064,"pid":9005,"hostname":"Airfryer","msg":"Server listening at http://127.0.0.1:8080"}
+Server is listening on http://127.0.0.1:8080
+{"level":30,"time":1698059713707,"pid":9005,"hostname":"Airfryer","reqId":"req-1","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":33208},"msg":"incoming request"}
+{"level":30,"time":1698059715657,"pid":9005,"hostname":"Airfryer","reqId":"req-1","res":{"statusCode":200},"responseTime":1949.8663180004805,"msg":"request completed"}
+{"level":30,"time":1698059715661,"pid":9005,"hostname":"Airfryer","reqId":"req-2","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":33218},"msg":"incoming request"}
+{"level":30,"time":1698059717210,"pid":9005,"hostname":"Airfryer","reqId":"req-2","res":{"statusCode":200},"responseTime":1548.952580999583,"msg":"request completed"}
+{"level":30,"time":1698059717216,"pid":9005,"hostname":"Airfryer","reqId":"req-3","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":33234},"msg":"incoming request"}
+{"level":30,"time":1698059718760,"pid":9005,"hostname":"Airfryer","reqId":"req-3","res":{"statusCode":200},"responseTime":1543.9660510001704,"msg":"request completed"}
+{"level":30,"time":1698059718766,"pid":9005,"hostname":"Airfryer","reqId":"req-4","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":39804},"msg":"incoming request"}
+{"level":30,"time":1698059720365,"pid":9005,"hostname":"Airfryer","reqId":"req-4","res":{"statusCode":200},"responseTime":1598.5530350003392,"msg":"request completed"}
+{"level":30,"time":1698059720370,"pid":9005,"hostname":"Airfryer","reqId":"req-5","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":39810},"msg":"incoming request"}
+{"level":30,"time":1698059722252,"pid":9005,"hostname":"Airfryer","reqId":"req-5","res":{"statusCode":200},"responseTime":1881.373137999326,"msg":"request completed"}
+{"level":30,"time":1698059722263,"pid":9005,"hostname":"Airfryer","reqId":"req-6","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":39814},"msg":"incoming request"}
+{"level":30,"time":1698059723915,"pid":9005,"hostname":"Airfryer","reqId":"req-6","res":{"statusCode":200},"responseTime":1651.586746999994,"msg":"request completed"}
+{"level":30,"time":1698059723923,"pid":9005,"hostname":"Airfryer","reqId":"req-7","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":39820},"msg":"incoming request"}
+{"level":30,"time":1698059725459,"pid":9005,"hostname":"Airfryer","reqId":"req-7","res":{"statusCode":200},"responseTime":1536.5248039998114,"msg":"request completed"}
+{"level":30,"time":1698059725467,"pid":9005,"hostname":"Airfryer","reqId":"req-8","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":39822},"msg":"incoming request"}
+{"level":30,"time":1698059727162,"pid":9005,"hostname":"Airfryer","reqId":"req-8","res":{"statusCode":200},"responseTime":1694.0693219993263,"msg":"request completed"}
+{"level":30,"time":1698059727168,"pid":9005,"hostname":"Airfryer","reqId":"req-9","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":39830},"msg":"incoming request"}
+{"level":30,"time":1698059729099,"pid":9005,"hostname":"Airfryer","reqId":"req-9","res":{"statusCode":200},"responseTime":1930.8051650002599,"msg":"request completed"}
+{"level":30,"time":1698059729107,"pid":9005,"hostname":"Airfryer","reqId":"req-a","req":{"method":"GET","url":"/api/v1/cat-facts","hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":51546},"msg":"incoming request"}
+{"level":30,"time":1698059730701,"pid":9005,"hostname":"Airfryer","reqId":"req-a","res":{"statusCode":200},"responseTime":1593.9134229999036,"msg":"request completed"}

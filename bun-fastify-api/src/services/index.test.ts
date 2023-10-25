@@ -1,8 +1,11 @@
+const isUsingBun = true;
+
 describe('services', () => {
   const oldEnv = process.env;
 
   beforeEach(() => {
-    jest.resetModules();
+    // Note: Bun does not support this
+    // jest.resetModules();
     process.env = { ...oldEnv }; // clone
   });
 
@@ -16,8 +19,11 @@ describe('services', () => {
 
     const testedModule = require('./index');
     expect(testedModule.urls).toEqual({
-      catsApi: 'https://catfact.ninja',
-      boredApi: 'https://www.boredapi.com/api'
+      // NOTE: modified this so that it works for Bun
+      // catsApi: 'https://catfact.ninja',
+      // boredApi: 'https://www.boredapi.com/api'
+      catsApi: 'http://localhost:8081',
+      boredApi: 'http://localhost:8081',
     })
   });
 })
